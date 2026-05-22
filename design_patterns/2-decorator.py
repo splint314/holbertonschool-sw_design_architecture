@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CaramelDecorator:
     def __init__(self, inner):
         self._inner = inner
